@@ -1,0 +1,32 @@
+{
+  "cards": [
+    {
+      "id": 3,
+      "image": "https://en.letsgodigital.org/uploads/2018/07/iphone-2019.jpg",
+      "title": "iphone X",
+      "memory": "128",
+      "price": "250"
+    },
+    {
+      "id": 4,
+      "image": "https://p.turbosquid.com/ts-thumb/N2/YaXfdB/fPPeAL7b/002/jpg/1538202967/1920x1080/fit_q99/735829375e68ddb0ca0fdcbad2e77102d79204db/002.jpg",
+      "title": "iphone XS",
+      "memory": "128",
+      "price": "300"
+    },
+    {
+      "id": 5,
+      "image": "https://p.turbosquid.com/ts-thumb/N2/YaXfdB/fPPeAL7b/002/jpg/1538202967/1920x1080/fit_q99/735829375e68ddb0ca0fdcbad2e77102d79204db/002.jpg",
+      "title": "iphone XS max",
+      "memory": "256",
+      "price": "350"
+    },
+    {
+      "title": "iphone 14",
+      "price": "1000",
+      "memory": "512",
+      "image": "https://gbstore.ru/pictures/product/middle/24809_middle.jpg",
+      "id": 6
+    }
+  ]
+}
